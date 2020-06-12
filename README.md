@@ -5,3 +5,9 @@ This is a Repository for the HelpDesk Tool's creation, documentation, and projec
 
 Notes:
 *First credential prompt. What credentials?
+
+todo:
+SCCM less launch/connection
+Connect text goes away
+connect button doesn't change
+get-collection
