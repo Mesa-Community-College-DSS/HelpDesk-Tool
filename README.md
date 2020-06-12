@@ -3,6 +3,9 @@
 
 This is a Repository for the HelpDesk Tool's creation, documentation, and project files.
 
+##SCCM Console connection is REQUIRED. (SCCM must be open to connect)
+##ConfigurationManager module will need to be loaded in Powershell Studio's cache.
+
 Notes:
 *First credential prompt. What credentials?
 
