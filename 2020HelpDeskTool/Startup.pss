@@ -24,7 +24,7 @@ function Main {
 		
 	#--------------------------------------------------------------------------
 	#TODO: Add initialization script here (Load modules and check requirements)
-	$global:underScore = Get-Credential
+	$global:underScore = Get-Credential -Message 'Enter in your underscore credentials'
 	Connect-MC1 
 	
 	#--------------------------------------------------------------------------
